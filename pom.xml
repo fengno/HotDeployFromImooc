@@ -6,6 +6,7 @@
 	<groupId>com.imooc</groupId>
 	<artifactId>HotDeployFromImooc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!-- 发布方式一：构建jar包，命令行运行Spring Boot程序 -->
 	<packaging>jar</packaging>
 
 	<name>HotDeployFromImooc</name>
